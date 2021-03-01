@@ -1,0 +1,23 @@
+[
+  {
+    "AppName": "Slide 1",
+    "Alt": "Slide 1 Alt",
+    "Caption": "Slide 1 Capt",
+    "Header": "Slide 1 Header",
+    "Source": "/images/work2.jpg"
+  },
+  {
+    "AppName": "Slide 2",
+    "Alt": "Slide 2 Alt",
+    "Caption": "Slide 2 Capt",
+    "Header": "Slide 2 Header",
+    "Source": "/images/work3.jpg"
+  },
+  {
+    "AppName": "Slide 3",
+    "Alt": "Slide 3 Alt",
+    "Caption": "Slide 3 Capt",
+    "Header": "Slide 3 Header",
+    "Source": "/images/work8.jpg"
+  }
+]

@@ -1491,11 +1491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YudaSoft\\Youtube\\BlazorTutorial\\BlazorTutorial\\Carousel\\Carousel.csproj",
+      "projectUniqueName": "D:\\YudaSoft\\Youtube\\Git\\BlazorTutorial\\Carousel\\Carousel.csproj",
       "projectName": "Carousel",
-      "projectPath": "D:\\YudaSoft\\Youtube\\BlazorTutorial\\BlazorTutorial\\Carousel\\Carousel.csproj",
+      "projectPath": "D:\\YudaSoft\\Youtube\\Git\\BlazorTutorial\\Carousel\\Carousel.csproj",
       "packagesPath": "C:\\Users\\folio\\.nuget\\packages\\",
-      "outputPath": "D:\\YudaSoft\\Youtube\\BlazorTutorial\\BlazorTutorial\\Carousel\\obj\\",
+      "outputPath": "D:\\YudaSoft\\Youtube\\Git\\BlazorTutorial\\Carousel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\folio\\AppData\\Roaming\\NuGet\\NuGet.Config",

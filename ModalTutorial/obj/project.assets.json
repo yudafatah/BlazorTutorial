@@ -1211,11 +1211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YudaSoft\\Youtube\\BlazorTutorial\\BlazorTutorial\\ModalTutorial\\ModalTutorial.csproj",
+      "projectUniqueName": "D:\\YudaSoft\\Youtube\\Git\\BlazorTutorial\\ModalTutorial\\ModalTutorial.csproj",
       "projectName": "ModalTutorial",
-      "projectPath": "D:\\YudaSoft\\Youtube\\BlazorTutorial\\BlazorTutorial\\ModalTutorial\\ModalTutorial.csproj",
+      "projectPath": "D:\\YudaSoft\\Youtube\\Git\\BlazorTutorial\\ModalTutorial\\ModalTutorial.csproj",
       "packagesPath": "C:\\Users\\folio\\.nuget\\packages\\",
-      "outputPath": "D:\\YudaSoft\\Youtube\\BlazorTutorial\\BlazorTutorial\\ModalTutorial\\obj\\",
+      "outputPath": "D:\\YudaSoft\\Youtube\\Git\\BlazorTutorial\\ModalTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\folio\\AppData\\Roaming\\NuGet\\NuGet.Config",
